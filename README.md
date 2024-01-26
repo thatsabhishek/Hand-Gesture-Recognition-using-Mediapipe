@@ -26,8 +26,8 @@ python app.py
 
 The following options can be specified when running the demo.
 * --device<br>Specifying the camera device number (Default：0)
-* --width<br>Width at the time of camera capture (Default：960)
-* --height<br>Height at the time of camera capture (Default：540)
+* --width<br>Width at the time of camera capture (Default：1920)
+* --height<br>Height at the time of camera capture (Default：1080)
 * --use_static_image_mode<br>Whether to use static_image_mode option for MediaPipe inference (Default：Unspecified)
 * --min_detection_confidence<br>
 Detection confidence threshold (Default：0.5)
